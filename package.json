@@ -1,0 +1,26 @@
+{
+  "name": "iptoasn-client",
+  "version": "0.0.1",
+  "description": "Unofficial Node client for iptoasn.com service APIs (https://api.iptoasn.com/)",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./node_modules/mocha/bin/mocha  --recursive ./test/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kozakvoj/iptoasn-client.git"
+  },
+  "author": "Vojtech Kozak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kozakvoj/iptoasn-client/issues"
+  },
+  "homepage": "https://github.com/kozakvoj/iptoasn-client#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "cheerio": "^1.0.0-rc.2"
+  },
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  }
+}
