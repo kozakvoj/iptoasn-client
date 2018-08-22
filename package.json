@@ -1,6 +1,6 @@
 {
   "name": "iptoasn-client",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Unofficial Node client for iptoasn.com service APIs (https://api.iptoasn.com/)",
   "main": "index.js",
   "scripts": {
